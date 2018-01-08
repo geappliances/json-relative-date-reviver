@@ -1,0 +1,30 @@
+{
+  "name": "json-relative-date-reviver",
+  "version": "1.0.0",
+  "description": "Substitutes in dates relative to system dates when used with JSON.parse",
+  "main": "json-relative-date-reviver.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geappliances/json-relative-date-reviver.git"
+  },
+  "keywords": [
+    "moment",
+    "json",
+    "reviver"
+  ],
+  "author": "clayton.brehm@geappliances.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geappliances/json-relative-date-reviver/issues"
+  },
+  "homepage": "https://github.com/geappliances/json-relative-date-reviver#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "relative-time-parser": "^1.0.8"
+  }
+}
