@@ -25,6 +25,6 @@
     "mocha": "^4.1.0"
   },
   "dependencies": {
-    "relative-time-parser": "^1.0.8"
+    "relative-time-parser": "^1.0.9"
   }
 }
